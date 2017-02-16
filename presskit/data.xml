@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>
+
+	<title>Fractal Phase</title>
+	<founding-date>May 2015</founding-date>
+	<website>http://fractalphase.com</website>
+	<based-in>Toronto, Ontario, Canada</based-in>
+	
+	<press-contact>contact@fractalphase.com</press-contact>
+	<phone>Please email us</phone>
+
+	<address>
+		<line>Please email us</line>
+		<line></line>
+		<line></line>
+	</address>
+	
+	<socials>
+		<social>
+			<name>twitter.com/nihilocrat</name>
+			<link>twitter.com/nihilocrat</link>
+		</social>
+		<social>
+			<name>twitter.com/DelkoDuck</name>
+			<link>twitter.com/DelkoDuck</link>
+		</social>
+	</socials>
+
+	<description>	
+		We're games studio and we make games!
+	</description>
+		
+	<histories>
+	</histories>
+		
+	<trailers>
+	</trailers>
+	
+	<awards>
+	</awards>
+	
+	<quotes>
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+	</additionals>
+	
+	<credits>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>contact@fractalphase.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/skyroguegame</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>http://fractalphase.com</link>
+		</contact>
+	</contacts>
+</game>

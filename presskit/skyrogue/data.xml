@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Sky Rogue</title>
+	<release-date>Early Access: July 31, 2015,  Final Release: 2017</release-date>
+	<website>http://skyroguegame.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<based-in>Toronto, Ontario, Canada</based-in>
+	<press-contact>contact@skyroguegame.com</press-contact>
+	
+	<platforms>
+		<platform>
+			<name>Steam</name>
+			<link>http://store.steampowered.com/app/381020</link>
+		</platform>
+		<platform>
+			<name>itch.io</name>
+			<link>https://nihilocrat.itch.io/sky-rogue/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$9.99</value>
+		</price>
+	</prices>
+
+	<description>
+	A simple, fwooshy, intense arcade flight simulator. Blow things up over land, sea, and air, on an infinite number of procedurally-generated islands. Choose one of a diverse set of aeros and kit it out with a dizzying array of weaponry. Go toe-to-toe with enemy aces or assault giant flying aircraft carriers and battleships, but watch out for volleys of missiles; when you die, you're dead.
+	</description>
+	
+	<history>
+	Development started in July 2013. The original version of the game was made in one week for onegameamonth.com, and was released on itch.io in January 2014.
+	</history>
+
+	<features>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>f2jJjtw0wpk</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Fantastic Arcade</description>
+			<info>2015 Official Selection</info>
+		</award>
+		<award>
+			<description>TCAF Comics vs. Games</description>
+			<info>2015, 2016 Official Selection</info>
+		</award>
+		<award>
+			<description>Montreal IGF</description>
+			<info>2015 Official Selection</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>...it's a sweet little arcade shooter. It's immediately welcoming and then tougher than you'd expect...</description>
+			<name></name>
+			<website>Rock Paper Shotgun</website>
+			<link>http://www.rockpapershotgun.com/2014/02/11/blue-sky-fragging-sky-rogue/</link>
+		</quote>
+		<quote>
+			<description>Speed and fury and wide open space: sat inside a Kondor - or even better, parked just behind it as it loops and snarls - air combat doesn't get much better.</description>
+			<name>Chris Donlan</name>
+			<website>Eurogamer</website>
+			<link>http://www.eurogamer.net/articles/2014-02-17-flight-of-the-kondor-sky-rogues-dogfighting-glory</link>
+		</quote>
+		<quote>
+			<description>It's bloody great!</description>
+			<name>Daniel Hardcastle</name>
+			<website>NerdCubed</website>
+			<link>https://www.youtube.com/watch?v=RGWRqni7suo</link>
+		</quote>
+	</quotes>
+	
+	<additionals>
+		<additional>
+			<title>GIF + Screenshot Album</title>
+			<description>All the screenshots above, plus some GIFs, plus some logos!</description>
+			<link>http://imgur.com/a/a7Z6a</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Kenny Backus  @nihilocrat</person>
+			<role>Programming</role>
+		</credit>
+		<credit>
+			<person>Charles Blanchard  @DelkoDuck</person>
+			<role>Art</role>
+		</credit>
+		<credit>
+			<person>Phonetic Hero (Otherworld Agency)  @PhoneticHero</person>
+			<role>Music</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>contact@skyroguegame.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/skyroguegame</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>http://skyroguegame.com</link>
+		</contact>
+	</contacts>
+</game>
