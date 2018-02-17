@@ -7,14 +7,4 @@ NEW STUFF:
 - "Delete Save Data" added to Options menu
 - New translations: 한국어, Deutsch
 
-CHANGES:
-- Co-op is vertical splitscreen by default now that it works properly with all menus in the game at 16:9 resolutions
-- "Tutorial" menu option added in case you ever need it
-- Saving your game happens in the background (but incredibly quickly), look for an icon in the upper-right corner of the screen
-
-FIXES:
-- Co-op: Player 2's loadout was not consistently saved to file
-- Improved loading times
-- Fixed visual glitch when switching modes in Aeropedia
-- Explosion count when destroying a carrier has been reduced so that it doesn't blow out your speakers
-- Stats for both players when dying in co-op are accurate now
+Full changelist on the Steam page!
