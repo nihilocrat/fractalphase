@@ -5,6 +5,6 @@ NEW STUFF:
 - Cockpit models for all of the aeros!
 - Some options can be changed when you pause the game
 - "Delete Save Data" added to Options menu
-- New translations: 한국어, Deutsch
+- New translations: 한국어, Deutsch, Italiano
 
 Full changelist on the Steam page!
