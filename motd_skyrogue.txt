@@ -1,5 +1,9 @@
-1.1.5 Released!
+1.1.6 Released!
 
-This release has a bunch of minor bugfixes along with some minor polish and upgrades since it's been quite awhile since the last update. Another update is in the works with some new content and possible gameplay changes!
+- You may need to rebind your controls if you are not using defaults; custom control bindings were being saved to the Windows registry (and other places on other platforms). They are now stored in PlayerProfile.sav so that they are preserved by Steam Cloud.
+- Landing is done with the button bound to "UISubmit" instead of the one bound to "Target". This should help if you have rebound the "Target" button.
+- Fixed an issue where the game would not respond to joystick controls and only accept mouse input in certain cases, requiring you to disable the mouse entirely.
+- Co-op fixes!
+- Zulu upgrades fixed!
 
 Full changelist on the Steam page!
