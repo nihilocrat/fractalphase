@@ -1,9 +1,9 @@
-1.1.6 Released!
+1.2.0 Released!
 
-You may need to rebind your controls if you are not using defaults; custom control bindings were being saved to the Windows registry (and other places on other platforms). They are now stored in PlayerProfile.sav so that they are preserved by Steam Cloud.
+- WARP MENU: If you have reached a new island biome (Day 5 or beyond), you can now spend tech points to start a new run at a later island
+- TENGU Experimental Swing-Wing: unlockable after beating the game
+- BRONCO Warbird: a propeller-driven aero which is able to mount two weapons per weapon mount
+- DRONE-L Trebuchet: a special which will launch drone wingmen.
+- Lots of improvements and bugfixes!
 
-- Fixed "forced to use mouse" bug!
-- Co-op fixes!
-- Zulu upgrades fixed!
-
-Full changelist on the Steam page!
+Full changelist at skyroguegame.com!
