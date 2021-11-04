@@ -27,12 +27,20 @@
 	
 	<platforms>
 		<platform>
+			<name>Nintendo Switch</name>
+			<link>https://www.nintendo.com/games/detail/sky-rogue-switch/</link>
+		</platform>
+		<platform>
+			<name>Xbox One</name>
+			<link>https://www.xbox.com/en-us/games/store/sky-rogue/9nlpk75dl5hr</link>
+		</platform>
+		<platform>
 			<name>Steam</name>
 			<link>http://store.steampowered.com/app/381020</link>
 		</platform>
 		<platform>
 			<name>itch.io</name>
-			<link>https://nihilocrat.itch.io/sky-rogue/</link>
+			<link>https://fractal-phase.itch.io/sky-rogue/</link>
 		</platform>
 	</platforms>
 	
@@ -61,6 +69,25 @@
 		</trailer>
 	</trailers>
 	
+	<!-- You can set your widgets here (optional): -->
+	<widgets>
+		<steam>
+		<!-- Steam ID -->
+		<!-- e.g. 424242 -->
+		381020
+		</steam>
+		<itch>
+		<!-- itch.io ID -->
+		<!-- e.g. 42424 -->
+		647
+		</itch>
+		<bandcamp>
+		<!-- Bandcamp ID -->
+		<!-- e.g. 4242424242 -->
+		2525474741
+		</bandcamp>
+	</widgets>
+
 	<awards>
 		<award>
 			<description>Fantastic Arcade</description>
