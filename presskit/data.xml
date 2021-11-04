@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- example file containing base tags -->
 
-<game>
+<company>
 
 	<title>Fractal Phase</title>
 	<founding-date>May 2015</founding-date>
 	<website>http://fractalphase.com</website>
 	<based-in>Toronto, Ontario, Canada</based-in>
 	
-	<press-contact>contact@skyroguegame.com</press-contact>
+	<press-contact>contact@fractalphase.com</press-contact>
 	<phone>Please email us</phone>
 
 	<address>
@@ -22,16 +22,11 @@
 			<name>twitter.com/nihilocrat</name>
 			<link>twitter.com/nihilocrat</link>
 		</social>
-		<social>
-			<name>twitter.com/DelkoDuck</name>
-			<link>twitter.com/DelkoDuck</link>
-		</social>
 	</socials>
 
 	<description>	
-            Fractal Phase, founded in Toronto, Canada in 2015, is a fine purveyor of free-range, untextured polygons and small-batch vertices.
-			It is the creator of Sky Rogue - a fwooshy, intense, procedurally generated fly-em-up, an homage to 90s flight simulators and
-			unapologetically blue SEGA arcade games, which is now available on the PC, Xbox One, and Nintendo Switch.
+            Founded in 2015, Fractal Phase is a small family-owned independent game company based in Toronto, Canada.
+			We make low poly games for underserved niche markets. We are the creators of Sky Rogue, a low-poly arcade flight simulator on the Nintendo Switch, Xbox One, and PC.
 
 
 	</description>
@@ -73,4 +68,4 @@
 			<link>http://skyroguegame.com</link>
 		</contact>
 	</contacts>
-</game>
+</company>

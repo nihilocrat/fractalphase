@@ -1,13 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<game>
+<product>
 	<title>Sky Rogue</title>
-	<release-date>Early Access: July 31, 2015,  Final Release: August 24th, 2017</release-date>
-	<website>http://skyroguegame.com/</website>
+	<release-dates>
+		<release-date>itch.io Alpha: January 2014</release-date>
+		<release-date>Steam Early Access: July 31, 2015</release-date>
+		<release-date>PC/Mac/Linux: August 24th, 2017</release-date>
+		<release-date>Nintendo Switch: April 2018</release-date>
+		<release-date>Xbox one: January 2020</release-date>
+  	</release-dates>
+	<website>https://skyroguegame.com/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
-	<based-in>Toronto, Ontario, Canada</based-in>
 	<press-contact>contact@skyroguegame.com</press-contact>
+
+	<socials>
+		<social>
+			<name>Twitter</name>
+			<link>https://twitter.com/skyroguegame/</link>
+		</social>
+		<social>
+			<name>Discord</name>
+			<link>https://discord.gg/UZJcyCdVyu</link>
+		</social>
+	</socials>
 	
 	<platforms>
 		<platform>
@@ -118,4 +134,4 @@
 			<link>http://skyroguegame.com</link>
 		</contact>
 	</contacts>
-</game>
+</product>
