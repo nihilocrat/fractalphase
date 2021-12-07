@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<product>
+	<title>Flying Neko Delivery</title>
+	<release-dates>
+		<release-date>PC/Mac/Linux - 2022</release-date>
+		<release-date>Switch - 2022</release-date>
+	</release-dates>
+	<website>https://flyingnekodelivery.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+	
+	<!-- Link to request press copy: -->
+	<press-copy-request></press-copy-request>
+
+	<press-contact>contact@fractalphase.com</press-contact>
+	
+	<socials>
+		<social>
+			<name>Twitter</name>
+			<link>http://twitter.com/flyingnekogame</link>
+		</social>
+		<social>
+			<name>Discord</name>
+			<link>https://discord.gg/YjgSjcggAq</link>
+		</social>
+	</socials>
+
+	<platforms>
+		<platform>
+			<name>Steam</name>
+			<link>http://store.steampowered.com/app/410740</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency></currency>
+			<value>TBD</value>
+		</price>
+	</prices>
+
+	<description>
+	Take on the role of Onigiri, a feline witch who lives in a cottage in the forest and delivers packages flying on a broomstick. Earn money from each delivery to customize your cottage. During deliveries, explore new worlds, forage plants and fungi, and meet quirky villagers along the way.
+	</description>
+	
+	<features>
+		<feature>Flying - Deliver packages on a flying broomstick which you can upgrade. Simple and forgiving controls let you enjoy flying without worrying about crashing or combat. Explore diverse worlds and forage wild plants along the way.</feature>
+		<feature>Relationships - Delivering packages to the same villager deepens your relationship with them. Become close friends with as many villagers as possible to unlock rewards.</feature>
+		<feature>Decoration - Return to your cottage to craft items and unlock new abilities. Express yourself by decorating the cottage with customizable furniture. Seek out new pieces of furniture in shops where you can spend your hard-earned cash.</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>7Fhq2CmXeyk</youtube>
+		</trailer>
+	</trailers>
+	
+	<additionals>
+		<additional>
+			<title>GIF Album</title>
+			<description>Animated GIFs!</description>
+			<link>https://imgur.com/a/77T6LZJ</link>
+		</additional>
+		<additional>
+			<title>Ontario Creates</title>
+			<description>Made possible with the support of Ontario Creates</description>
+			<link>https://ontariocreates.ca</link>
+		</additional>
+	</additionals>
+
+	<!-- You can set your widgets here (optional): -->
+	<widgets>
+		<steam>
+		<!-- Steam ID -->
+		<!-- e.g. 424242 -->
+		410740
+		</steam>
+	</widgets>
+
+	<awards>
+		<award>
+			<description>Ubisoft Indie Series 2021</description>
+			<info>Finalist</info>
+		</award>
+	</awards>
+	
+	<!--
+	<quotes>
+		<quote>
+			<description>...it's a sweet little arcade shooter. It's immediately welcoming and then tougher than you'd expect...</description>
+			<name></name>
+			<website>Rock Paper Shotgun</website>
+			<link>http://www.rockpapershotgun.com/2014/02/11/blue-sky-fragging-sky-rogue/</link>
+		</quote>
+	</quotes>
+	-->
+
+	<credits>
+		<credit>
+			<person>Kenny Backus</person>
+			<role>Programming, Additional Art</role>
+		</credit>
+		<credit>
+			<person>Kristi Backus</person>
+			<role>Design, Additional Art</role>
+		</credit>
+		<credit>
+			<person>Thousand Stars Studio (Sally Luc)</person>
+			<role>Art</role>
+		</credit>
+		<credit>
+			<person>Mark Sparling</person>
+			<role>Music</role>
+		</credit>
+		
+		<!-- Optional: -->
+		<!--<website></website>-->
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>contact@fractalphase.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/flyingnekogame</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>http://flyingnekodelivery.com</link>
+		</contact>
+		<contact>
+			<name>Discord</name>
+			<link>https://discord.gg/YjgSjcggAq</link>
+		</contact>
+	</contacts>
+</product>
