@@ -3,8 +3,7 @@
 <product>
 	<title>Flying Neko Delivery</title>
 	<release-dates>
-		<release-date>PC/Mac/Linux - 2022</release-date>
-		<release-date>Switch - 2022</release-date>
+		<release-date>PC/Mac/Linux and Nintendo Switch - 2022</release-date>
 	</release-dates>
 	<website>https://flyingnekodelivery.com/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
@@ -34,13 +33,13 @@
 	
 	<prices>
 		<price>
-			<currency></currency>
-			<value>TBD</value>
+			<currency>USD</currency>
+			<value>$19.99</value>
 		</price>
 	</prices>
 
 	<description>
-	Take on the role of Onigiri, a feline witch who lives in a cottage in the forest and delivers packages flying on a broomstick. Earn money from each delivery to customize your cottage. During deliveries, explore new worlds, forage plants and fungi, and meet quirky villagers along the way.
+	Take on the role of Onigiri, a feline witch who lives in a cottage and delivers packages flying on a broomstick. Customize your cottage, explore new worlds, forage plants and fungi, and meet quirky villagers along the way, while enjoying music by Mark Sparling, the composer for A Short Hike.
 	</description>
 	
 	<features>
@@ -82,6 +81,8 @@
 		<award>
 			<description>Ubisoft Indie Series 2021</description>
 			<info>Finalist</info>
+			<description>Gamescom Indie Arena Booth 2022</description>
+			<info>Official Selection</info>
 		</award>
 	</awards>
 	
