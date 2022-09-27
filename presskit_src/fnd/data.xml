@@ -29,6 +29,10 @@
 			<name>Steam</name>
 			<link>http://store.steampowered.com/app/410740</link>
 		</platform>
+		<platform>
+			<name>Nintendo Switch</name>
+			<link>https://www.nintendo.com/games/detail/flying-neko-delivery-switch/</link>
+		</platform>
 	</platforms>
 	
 	<prices>
@@ -51,7 +55,7 @@
 	<trailers>
 		<trailer>
 			<name>Trailer</name>
-			<youtube>7Fhq2CmXeyk</youtube>
+			<youtube>-Z2Hm-YxDkc</youtube>
 		</trailer>
 	</trailers>
 	
@@ -81,6 +85,8 @@
 		<award>
 			<description>Ubisoft Indie Series 2021</description>
 			<info>Finalist</info>
+		</award>
+		<award>
 			<description>Gamescom Indie Arena Booth 2022</description>
 			<info>Official Selection</info>
 		</award>
