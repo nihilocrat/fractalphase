@@ -3,7 +3,7 @@
 <product>
 	<title>Flying Neko Delivery</title>
 	<release-dates>
-		<release-date>PC/Mac/Linux and Nintendo Switch - 2022</release-date>
+		<release-date>October 20th, 2022</release-date>
 	</release-dates>
 	<website>https://flyingnekodelivery.com/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
@@ -88,6 +88,10 @@
 		</award>
 		<award>
 			<description>Gamescom Indie Arena Booth 2022</description>
+			<info>Official Selection</info>
+		</award>
+		<award>
+			<description>Hand Eye Society Super Festival 2022</description>
 			<info>Official Selection</info>
 		</award>
 	</awards>
